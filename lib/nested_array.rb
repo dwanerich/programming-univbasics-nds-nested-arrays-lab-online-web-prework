@@ -87,7 +87,7 @@ def matrix_update(matrix, row, column, new_value)
   "Mario Incandenza",
   "Michael Pemulis"]]
   
- combined_list[0][2] = "Dwane Richards"
+ combined_list[0][2] = "Tiny Ewell"
  combined_list
   
  
