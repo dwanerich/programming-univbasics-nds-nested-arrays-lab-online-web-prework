@@ -48,13 +48,13 @@ def array_literal_matrix
   "Joelle van Dyne",
   "Pat M.",
   "Kate Gompert",
-  "Bruce Green"],
+  "Bruce Green"].sort,
   
   ["Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
-  "Michael Pemulis"]]
+  "Michael Pemulis"].sort]
   
   combined_list.sort
   
