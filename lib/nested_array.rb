@@ -56,7 +56,6 @@ def array_literal_matrix
   "Mario Incandenza",
   "Michael Pemulis"].sort]
   
-  combined_list
   
   
   
