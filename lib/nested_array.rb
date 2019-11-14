@@ -86,7 +86,7 @@ def matrix_update(matrix, row, column, new_value)
   "Michael Pemulis"]]
   
   combined_list[1][1] = "new_value"
-  ombined_list
+  combined_list
   
  
   
