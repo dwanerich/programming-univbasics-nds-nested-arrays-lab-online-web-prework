@@ -71,10 +71,24 @@ end
 
 def matrix_update(matrix, row, column, new_value)
   
+ combined_list =
+  [
+  ["Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green"],
   
+  ["Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"]]
   
-  matrix[row][column] = "new_value"
-  matrix[row][column]
+  combined_list[1][1] = "Dwane Richards"
+  combined_list[1][1]
+  
+ 
   
   # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
